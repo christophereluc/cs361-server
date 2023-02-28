@@ -8,7 +8,7 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "express": "~4.16.0",
-    "hbs": "~4.0.1",
+    "hbs": "~4.2.0",
     "lodash": "^4.17.21",
     "mysql": "^2.16.0"
   }
